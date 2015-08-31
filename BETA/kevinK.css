@@ -1,0 +1,53 @@
+﻿#mainmenu
+{
+	position:absolute;
+	left:50%;
+	top:50%;
+	width:250px;
+	height:250px;
+	margin:-125px 0 0 -125px;
+}
+.menutile
+{
+	background-color:#1E1E1E;
+	color:#EAEAEA;
+	margin:2px 2px 2px 2px;
+}
+#one
+{
+	height:48%;
+	width:48%;
+	float:left;
+	font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	
+	
+}
+#two
+{
+	height:48%;
+	width:48%;
+	float:left;
+	font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif
+}
+#three
+{
+	height:48%;
+	width:48%;
+	floaT:left;
+	font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif
+}
+#four
+{
+	height:48%;
+	width:48%;
+	float:left;
+	font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif
+}
+#onebody
+{
+	width:70%;
+	display:none;
+	
+	float:right
+	
+}
